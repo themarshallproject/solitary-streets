@@ -22,14 +22,22 @@ Our story, "[From Solitary to the Street](https://www.themarshallproject.org/201
 
 Included in this repo is [the data](data/) collected by reporter Christie Thompson from all the states who could provide it. The uncleaned and unaggregated data is [published on DocumentCloud](https://www.documentcloud.org/public/search/projectid:20529-solitary-to-the-streets) and provided here in its original form, whether it be email, pdf, Microsoft Word document or Excel spreadsheet.
 
+##Reporters: How You Can Use Our Data
 
-##Data sources and caveats
+In September, The Marshall Project and NPR set out to tally how often U.S. prisons released someone straight from solitary confinement. The answer we found over a 9-month investigation: it’s complicated. Over half of the states and the federal Bureau of Prisons could not provide any data (or in some states, not without hundreds or thousands of dollars in fees). In the 24 states we did get data from, the numbers vary significantly. Some of the big differences:
 
-In reporting this story, the Marshall Project contacted corrections departments in all 50 states and the federal Bureau of Prisons to ask what data they collect on the prisoners being released directly from any kind of segregated housing unit into the community. We asked for annual release counts from 2008 through 2014.
+* Some states could only tell us how many were coming straight from administrative segregation — units meant to house prisoners suspected of being gang members or threats to the prison security. Others included disciplinary segregation or protective custody (in which prisoners are segregated for their own safety). 
+* Some states count by calendar year, some by fiscal. 
+* The overall number of releases for state prison system vary widely. 
+* Some states included deaths, escapes or transfers to other custody, like ICE, in their spreadsheets. We did not include those numbers in our tally, but the categories are still in the original documents. 
 
-Twenty-four states provided some kind of data. The quality and coverage of the data we received varied widely. Some states were able to give numbers for releases from administrative segregation (for prisoners considered to be security threats), disciplinary segregation (for people that violate prison rules), and protective custody (to protect a prisoner from others). Other states could only provide numbers on releases from administrative segregation. Some states count these releases by calendar year and others by their own fiscal year. And several states could provide numbers for only a few of the years requested.
+That’s why you can’t take these numbers and try to do an apples-to-apples comparison of how states rank. 
 
-Despite compiling data tracking releases from solitary in these 24 states, the inconsistencies of how each state defines solitary and the different time spans provided prevented ranking or comparing them to any significant degree.
+What you can do with the data is further investigate how your state prison system deals with segregated prisoners approaching the end of their sentence, and give this national investigation a local focus. 
+
+You now have the numbers of how many releases straight from solitary have happened in your state as far back as 2008. Some have even broken it down by how many were released on parole or probation, versus maxing out their sentence and coming home with no supervision. 
+
+Wyoming and Kansas provided a list of inmate ID numbers, which can be used to track down individual stories. In other states, you can copy our tactic: reach out to local reentry nonprofits and prisoner family organizations to try and find families that have experienced this. Several states (including New Mexico, Wisconsin, Louisiana and South Carolina, to name a few) noted that they were also starting some new programming to help ease segregated prisoners into life outside. If you end up writing a story, let us know by emailing ```bhickman@themarshallproject.org```
 
 ##Contributors
 
@@ -38,3 +46,5 @@ Despite compiling data tracking releases from solitary in these 24 states, the i
 
 ##Bugs
 If you have questions about the data, please email Christie at ```cthompson@themarshallproject.org``` or Tom at ```tmeagher@themarshallproject.org``` or file a [Github issue](https://github.com/themarshallproject/solitary-streets/issues).
+
+If you write a story in your state using this data or our methodology, please let us know! Email Blair at ```bhickman@themarshallproject.org```
