@@ -37,4 +37,4 @@ Despite compiling data tracking releases from solitary in these 24 states, the i
 * Tom Meagher, [The Marshall Project](https://www.themarshallproject.org/)
 
 ##Bugs
-If you have questions about the data, please email Christie at ```cthompson@themarshallproject.org``` or Tom at ```tmeagher@themarshallproject.org``` or file a [Github issue](https://github.com/themarshallproject/solitarystreets/issues).
+If you have questions about the data, please email Christie at ```cthompson@themarshallproject.org``` or Tom at ```tmeagher@themarshallproject.org``` or file a [Github issue](https://github.com/themarshallproject/solitary-streets/issues).
